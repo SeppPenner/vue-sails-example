@@ -26,7 +26,7 @@
     "rc": "1.0.1",
     "sails": "^1.2.2",
     "sails-disk": "^0.10.10",
-    "sails-hook-grunt": "^2.1.0",
+    "sails-hook-grunt": "^4.0.0",
     "sails-hook-orm": "^1.0.9",
     "sails-hook-sockets": "^0.13.11",
     "sails.io.js": "^1.1.12",
