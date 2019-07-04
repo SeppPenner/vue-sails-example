@@ -31,19 +31,23 @@
     "sails-hook-sockets": "^0.13.11",
     "sails.io.js": "^1.1.12",
     "sinon": "^2.3.8",
-    "supertest": "^3.0.0"
+    "supertest": "^3.0.0",
+    "snyk": "^1.189.0"
   },
   "scripts": {
     "checkout": "NODE_PATH=. node ./node_modules/git-checkout.js/src/index.js",
     "debug": "node debug app.js",
     "dev": "NODE_ENV=development ./node_modules/sails/bin/sails.js lift",
     "start": "node app.js",
-    "test": "NODE_ENV=test node ./node_modules/mocha/bin/mocha test/bootstrap.test.js test/**/*.spec.js"
+    "test": "NODE_ENV=test node ./node_modules/mocha/bin/mocha test/bootstrap.test.js test/**/*.spec.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "main": "app.js",
   "author": "Julian Claus",
   "license": "MIT",
   "devDependencies": {
     "git-checkout.js": "^0.1.15"
-  }
+  },
+  "snyk": true
 }
