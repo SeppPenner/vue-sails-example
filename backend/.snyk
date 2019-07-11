@@ -380,10 +380,10 @@ patch:
     - sails-hook-orm > sails-disk > machinepack-fs > machinepack-strings > machine > lodash:
         patched: '2019-07-11T07:26:48.280Z'
     - sails-hook-sockets > machinepack-redis > machine > include-all > lodash:
-        patched: '2019-07-11T07:33:16.094Z'
+        patched: '2019-07-11T07:34:08.972Z'
   'npm:debug:20170905':
     - sails-hook-sockets > socket.io > socket.io-adapter > socket.io-parser > debug:
-        patched: '2019-07-11T07:33:16.094Z'
+        patched: '2019-07-11T07:34:08.972Z'
   'npm:ms:20170412':
     - sails-hook-sockets > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
-        patched: '2019-07-11T07:33:16.094Z'
+        patched: '2019-07-11T07:34:08.972Z'
