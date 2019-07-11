@@ -356,27 +356,27 @@ patch:
         patched: '2019-07-10T07:26:59.448Z'
   'npm:lodash:20180130':
     - sails-disk > machinepack-fs > machinepack-strings > machine > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-disk > machinepack-fs > machine > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-disk > machinepack-fs > machinepack-strings > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-disk > machinepack-fs > machinepack-json > machine > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-disk > machinepack-fs > machinepack-util > machine > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-hook-orm > sails-disk > machinepack-fs > machinepack-strings > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-disk > machinepack-fs > machinepack-util > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-hook-orm > sails-disk > machinepack-fs > machine > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-hook-orm > sails-disk > machinepack-fs > machinepack-util > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-hook-orm > sails-disk > machinepack-fs > machinepack-json > machine > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-hook-orm > sails-disk > machinepack-fs > machinepack-util > machine > lodash:
-        patched: '2019-07-11T07:26:48.280Z'
+        patched: '2019-07-11T07:26:54.445Z'
     - sails-hook-orm > sails-disk > machinepack-fs > machinepack-strings > machine > lodash:
         patched: '2019-07-11T07:26:48.280Z'
     - sails-hook-sockets > machinepack-redis > machine > include-all > lodash:
