@@ -14,7 +14,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
-    "bootstrap-vue": "^0.18.0",
+    "bootstrap-vue": "^2.0.0",
     "bootstrap": "4.0.0-alpha.6",
     "faker": "^4.1.0",
     "lodash": "^4.17.12",
