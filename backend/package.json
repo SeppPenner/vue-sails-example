@@ -32,7 +32,7 @@
     "sails.io.js": "^1.1.12",
     "sinon": "^2.3.8",
     "supertest": "^3.0.0",
-    "snyk": "^1.260.0"
+    "snyk": "^1.278.2"
   },
   "scripts": {
     "checkout": "NODE_PATH=. node ./node_modules/git-checkout.js/src/index.js",
